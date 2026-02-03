@@ -4,7 +4,7 @@
 
 This project analyzes Walmart’s transactional sales data to understand variations in payment behavior, customer purchasing patterns, and category-level profitability across branches. The goal is to identify operational gaps and provide data-driven business recommendations.
 
-The analysis combines **Python (EDA), SQL (business queries), and Power BI (dashboarding)** to derive actionable insights that can help Walmart improve revenue, inventory planning, and customer experience.
+The analysis combines **Python (EDA), SQL (business queries) to derive actionable insights that can help Walmart improve revenue, inventory planning, and customer experience.
 
 ---
 
